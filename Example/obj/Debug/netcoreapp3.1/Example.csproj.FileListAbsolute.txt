@@ -1,0 +1,16 @@
+D:\workspace\C#\Example\Example\bin\Debug\netcoreapp3.1\Example.exe
+D:\workspace\C#\Example\Example\bin\Debug\netcoreapp3.1\Example.deps.json
+D:\workspace\C#\Example\Example\bin\Debug\netcoreapp3.1\Example.runtimeconfig.json
+D:\workspace\C#\Example\Example\bin\Debug\netcoreapp3.1\Example.runtimeconfig.dev.json
+D:\workspace\C#\Example\Example\bin\Debug\netcoreapp3.1\Example.dll
+D:\workspace\C#\Example\Example\bin\Debug\netcoreapp3.1\Example.pdb
+D:\workspace\C#\Example\Example\obj\Debug\netcoreapp3.1\Example.csprojAssemblyReference.cache
+D:\workspace\C#\Example\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfoInputs.cache
+D:\workspace\C#\Example\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfo.cs
+D:\workspace\C#\Example\Example\obj\Debug\netcoreapp3.1\Example.csproj.CoreCompileInputs.cache
+D:\workspace\C#\Example\Example\obj\Debug\netcoreapp3.1\Example.dll
+D:\workspace\C#\Example\Example\obj\Debug\netcoreapp3.1\Example.pdb
+D:\workspace\C#\Example\Example\obj\Debug\netcoreapp3.1\Example.genruntimeconfig.cache
+D:\workspace\C#\Example\Example\bin\Debug\netcoreapp3.1\Exdll.dll
+D:\workspace\C#\Example\Example\bin\Debug\netcoreapp3.1\Exdll.pdb
+D:\workspace\C#\Example\Example\obj\Debug\netcoreapp3.1\Example.csproj.CopyComplete

@@ -1,0 +1,23 @@
+{
+  "name": "vscode-cs-templete",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "Program.cs",
+  "scripts": {
+    "compileDebug":"dotnet run",
+    "buildProject":"dotnet build",
+    "createConsole":"dotnet new console",
+    "createSolution":"dotnet new sln",
+    "createDll":"dotnet new classlib"
+    },
+  "keywords": [
+    "C#",
+    "Visual studio Code",
+    "npm",
+    "cmd",
+    "dll",
+    "console"
+  ],
+  "author": "AmateurPotion",
+  "license": "ISC"
+}

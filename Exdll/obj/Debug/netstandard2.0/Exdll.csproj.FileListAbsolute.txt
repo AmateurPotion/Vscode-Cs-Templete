@@ -1,0 +1,9 @@
+D:\workspace\C#\Example\Exdll\bin\Debug\netstandard2.0\Exdll.deps.json
+D:\workspace\C#\Example\Exdll\bin\Debug\netstandard2.0\Exdll.dll
+D:\workspace\C#\Example\Exdll\bin\Debug\netstandard2.0\Exdll.pdb
+D:\workspace\C#\Example\Exdll\obj\Debug\netstandard2.0\Exdll.csprojAssemblyReference.cache
+D:\workspace\C#\Example\Exdll\obj\Debug\netstandard2.0\Exdll.AssemblyInfoInputs.cache
+D:\workspace\C#\Example\Exdll\obj\Debug\netstandard2.0\Exdll.AssemblyInfo.cs
+D:\workspace\C#\Example\Exdll\obj\Debug\netstandard2.0\Exdll.csproj.CoreCompileInputs.cache
+D:\workspace\C#\Example\Exdll\obj\Debug\netstandard2.0\Exdll.dll
+D:\workspace\C#\Example\Exdll\obj\Debug\netstandard2.0\Exdll.pdb
